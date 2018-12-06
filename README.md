@@ -1,0 +1,2 @@
+# PharmacyRecordingAutomation
+Eczane Kayıt Otomasyonu 
