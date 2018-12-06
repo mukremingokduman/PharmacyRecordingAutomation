@@ -1,0 +1,78 @@
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\bin\Debug\ECZANE-4.exe.config
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\bin\Debug\ECZANE-4.exe
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\bin\Debug\ECZANE-4.pdb
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE-4.csprojResolveAssemblyReference.cache
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\Interop.ShellExtensionLib.dll
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\Interop.UCAddinLib.dll
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE-4.csproj.ResolveComReference.cache
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.HASTA.resources
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ILACLAR.resources
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.Properties.Resources.resources
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE-4.csproj.GenerateResource.Cache
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE-4.exe
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE-4.pdb
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ANASAYFA.resources
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.PERSONEL.resources
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ADMIN.resources
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ILAC.resources
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ISLEM.resources
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.SILINENKAYITLAR.resources
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\Interop.Office2013CustomActionsLib.dll
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.NOBETCI.resources
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.RAPOR.resources
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ILACEKLE.resources
+C:\Users\The Last Ottoman\Desktop\2017\Vtys 2017\Projeler\Eczane\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.GIRIS.resources
+I:\Projeler 2017\ECZANE-4\ECZANE-4\bin\Debug\ECZANE-4.exe.config
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\Interop.DXTRANSLib.dll
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\Interop.InteropExtensionLib.dll
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\Interop.Office2013CustomActionsLib.dll
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\Interop.ShellExtensionLib.dll
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\Interop.UCAddinLib.dll
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE-4.csproj.ResolveComReference.cache
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE-4.exe
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE-4.pdb
+I:\Projeler 2017\ECZANE-4\ECZANE-4\bin\Debug\ECZANE-4.exe
+I:\Projeler 2017\ECZANE-4\ECZANE-4\bin\Debug\ECZANE-4.pdb
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE-4.csprojResolveAssemblyReference.cache
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ADMIN.resources
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ANASAYFA.resources
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.GIRIS.resources
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.HASTA.resources
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ILAC.resources
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ILACEKLE.resources
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ILACLAR.resources
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ISLEM.resources
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.NOBETCI.resources
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.PERSONEL.resources
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.Properties.Resources.resources
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.RAPOR.resources
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.SILINENKAYITLAR.resources
+I:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE-4.csproj.GenerateResource.Cache
+G:\Projeler 2017\ECZANE-4\ECZANE-4\bin\Debug\ECZANE-4.exe.config
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\Interop.DXTRANSLib.dll
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\Interop.InteropExtensionLib.dll
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\Interop.Office2013CustomActionsLib.dll
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\Interop.ShellExtensionLib.dll
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\Interop.UCAddinLib.dll
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE-4.csproj.ResolveComReference.cache
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE-4.exe
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE-4.pdb
+G:\Projeler 2017\ECZANE-4\ECZANE-4\bin\Debug\ECZANE-4.exe
+G:\Projeler 2017\ECZANE-4\ECZANE-4\bin\Debug\ECZANE-4.pdb
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE-4.csprojResolveAssemblyReference.cache
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ADMIN.resources
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ANASAYFA.resources
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.GIRIS.resources
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.HASTA.resources
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ILAC.resources
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ILACEKLE.resources
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ILACLAR.resources
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.ISLEM.resources
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.NOBETCI.resources
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.PERSONEL.resources
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.Properties.Resources.resources
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.RAPOR.resources
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE_4.SILINENKAYITLAR.resources
+G:\Projeler 2017\ECZANE-4\ECZANE-4\obj\Debug\ECZANE-4.csproj.GenerateResource.Cache
